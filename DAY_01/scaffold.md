@@ -144,4 +144,5 @@ $ rake db:migrate
 $ rails s
 ```
 
-[http://localhost:3000/](http://localhost:3000/)にアクセス。
+- [http://localhost:3000/tickets](http://localhost:3000/tickets)にアクセス。
+- チケット情報の登録／編集／削除をしてみよう
