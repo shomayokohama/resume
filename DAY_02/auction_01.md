@@ -37,9 +37,9 @@ $ rake db:migrate
 ```
 
 ### テーブル内容の確認
-sqliteのビューアーをインストールして確認する。
+sqliteのビューアーをインストールして、`db/development.sqlite3`を確認する。
 
-id/created_at/updated_atの３つが**マジックカラム**
+id/created_at/updated_atの３つが自動生成されている。**マジックカラム**と呼ばれる。
 
 ## コントローラ開発
 モデルが生成したデータを扱うコード、それがコントローラ。
