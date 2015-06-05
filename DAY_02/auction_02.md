@@ -19,7 +19,7 @@ end
 ```
 
 #### 記入
-```
+```html:app/views/items/new.html.erb
 <h1>商品登録フォーム</h1>
 <%= form_for @item do |f| %>
   <p>
