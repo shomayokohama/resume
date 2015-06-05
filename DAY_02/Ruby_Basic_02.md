@@ -1,12 +1,38 @@
 # Rubyの基礎（２）
 ## 制御構造
-### 条件判断系
+### １．条件判断系
 #### if
+- 条件には、値がtrueかfalseとなる式を書く。
+- Railsで一番使う。
 
 ```ruby
 if 条件 then
   条件がtrueの時に実行したい処理
 end
+```
+
+```ruby
+chikoku = 1
+if chikoku < 3 then
+  puts "セーフ"
+end
+=> セーフ
+```
+
+数値の比較
+
+```ruby
+p 5 == 5 # => true 
+p 4 > 6  # => false
+p 2 <= 3 # => true 
+p 4 != 5 # => true
+```
+
+文字列の比較
+
+```ruby
+p "スパルタ" == "Sparta" # false
+p "スパルタ" != "Sparta" # true
 ```
 
 #### if + else
@@ -21,6 +47,33 @@ else
 end
 ```
 
+```ruby
+chikoku = 3
+if chikoku < 3 then
+  puts "セーフ"
+else
+  puts "アウト"
+end
+=> アウト
+```
+
+- 条件の合体も可能
+	- `条件１ && 条件２`は、どちらも`true`の場合。
+	- `条件１ || 条件２`は、どちらかが`true`の場合
+
+```ruby
+chikoku = 1
+kesseki = 0
+
+if chikoku >=3 || kesseki >= 1 then
+  puts "アウト"
+else
+  puts "セーフ"
+end
+
+=> セーフ
+```
+
 #### unless
 `if`とは逆の条件判断。あまり使わない。
 
@@ -30,7 +83,7 @@ unless 条件 then
 end
 ```
 
-### 繰り返し系
+### ２．繰り返し系
 #### timesメソッド
 
 ```ruby
@@ -121,9 +174,10 @@ end
 
 
 ## メソッド
-### メソッドの呼び出し
+### １．メソッドの呼び出し
+未作成
 
-### メソッドの自作
+### ２．メソッドの自作
 Railsは複数のメソッドを自作していくことで、アプリ開発を進めていく。
 
 ```ruby
