@@ -5,12 +5,12 @@
 ### DAY 1 ｰ 2015年6月6日
 - [ターミナルの基礎](https://github.com/sparta-camp/resume/blob/master/DAY_01/Terminal.md)
 - [環境構築](https://github.com/sparta-camp/resume/blob/master/DAY_01/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89.md)
-- [Rubyの基礎（１）](https://github.com/sparta-camp/resume/blob/master/DAY_01/Ruby_Basic_01.md)
 - [Rails Scaffold（１）](https://github.com/sparta-camp/resume/blob/master/DAY_01/scaffold.md)
 - [自作Scaffold](https://github.com/sparta-camp/resume/blob/master/DAY_01/my_first_scaffold.md)
 - [Rails Scaffold（２）](https://github.com/sparta-camp/resume/blob/master/DAY_01/scaffold_2nd.md)
 
 ### DAY 2 ｰ 2015年6月7日
+- [Rubyの基礎（１）](https://github.com/sparta-camp/resume/blob/master/DAY_02/Ruby_Basic_01.md)
 - [Rubyの基礎（２）](https://github.com/sparta-camp/resume/blob/master/DAY_02/Ruby_Basic_02.md)
 - [オークションアプリ開発（１）](https://github.com/sparta-camp/resume/blob/master/DAY_02/auction_01.md)
 - [オークションアプリ開発（２）](https://github.com/sparta-camp/resume/blob/master/DAY_02/auction_02.md)
