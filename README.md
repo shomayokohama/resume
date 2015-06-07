@@ -12,8 +12,8 @@
 ### DAY 2 ｰ 2015年6月7日
 - [Rubyの基礎（１）](https://github.com/sparta-camp/resume/blob/master/DAY_02/Ruby_Basic_01.md)
 - [Rubyの基礎（２）](https://github.com/sparta-camp/resume/blob/master/DAY_02/Ruby_Basic_02.md)
-- [オークションアプリ開発（１）](https://github.com/sparta-camp/resume/blob/master/DAY_02/auction_01.md)
-- [オークションアプリ開発（２）](https://github.com/sparta-camp/resume/blob/master/DAY_02/auction_02.md)
+- [オークションアプリ開発（１）](https://github.com/sparta-camp/resume/blob/master/DAY_02/auction_app_01.md)
+- [オークションアプリ開発（２）](https://github.com/sparta-camp/resume/blob/master/DAY_02/auction_app_02.md)
 
 ### DAY 3 ｰ 2015年6月13日
 - 未設置
