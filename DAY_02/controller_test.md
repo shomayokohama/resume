@@ -33,7 +33,7 @@ $ rails generate controller tests
 
 ```ruby
 class TestsController < ApplicationController
-  def index
+  def message
     @message = "Testsコントローラの中のindexアクションからこんにちは！！！"
   end
 end
