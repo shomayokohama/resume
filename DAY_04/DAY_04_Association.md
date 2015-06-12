@@ -138,10 +138,13 @@ end
 ```
 
 ## アソシエーション
+![](http://wiki.usagee.co.jp/index.php?plugin=ref&page=ruby%2Frails%2FRailsGuides%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%92%8C%E8%A8%B3%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%88%2FActive%20Record%20Associations&src=has_many.png)
+出典：[ruby/rails/RailsGuidesをゆっくり和訳してみたよ](http://wiki.usagee.co.jp/ruby/rails/RailsGuides%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%92%8C%E8%A8%B3%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%88/Active%20Record%20Associations)
+
 - テーブル間をidで紐つける仕組み
 - 関連するモデルで宣言することで、アソシエーションが設定され、便利なメソッドが利用可能となる
 	- `course.rb`は`hay_many :partiants`
-	- `participant.rb`は`has_one :course`
+	- `participant.rb`は`belongs_to :course`
 
 ```ruby
 class Course < ActiveRecord::Base
