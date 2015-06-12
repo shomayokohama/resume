@@ -167,3 +167,9 @@ end
 
 ![データベース正規化](http://image.itmedia.co.jp/ait/articles/0605/11/l_r3table01.gif)
 出典：[データベースエンジニアへの道（3）：素早く正規形を見抜く実践テクニック ](http://www.atmarkit.co.jp/ait/articles/0605/11/news124.html)
+
+## validateの実装
+- 正しいデータの形式かどうか、デーベース登録前に判断する門番のような機能
+- `save`メソッドを呼び出すと、`save`メソッドがバリデーションを実行する
+	- バリデーションに引っかかると`false`が返る。
+- 詳細は[Railsドキュメント](http://railsdoc.com/validation)
