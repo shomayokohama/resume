@@ -23,10 +23,13 @@
 - [ガイドツアー管理システム](https://github.com/sparta-camp/resume/blob/master/DAY_04/intro_Association.md)
 
 ### DAY 5 ｰ 2015年6月20日
-- 未設置
+- [スパルタ顧客管理システム（１）](http://qiita.com/nashirox/private/b6ea04f64950afb48801)
+- [スパルタ顧客管理システム（２）](http://qiita.com/nashirox/private/5465a4c8185f86628685)
+- [新ブログシステム](https://github.com/sparta-camp/resume/blob/master/DAY_05/new_blog_app.md)
 
 ### DAY 6 ｰ 2015年6月21日
-- 未設置
+- [スパルタ顧客管理システム（３）](http://qiita.com/nashirox/private/721855f7bffb95727145)
+- [新ブログシステム](https://github.com/sparta-camp/resume/blob/master/DAY_05/new_blog_app.md)
 
 ### DAY 7 ｰ 2015年6月28日
 - 未設置
