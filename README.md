@@ -32,7 +32,8 @@
 - [新ブログシステム](https://github.com/sparta-camp/resume/blob/master/DAY_05/new_blog_app.md)
 
 ### DAY 7 ｰ 2015年6月28日
-- 未設置
+- [スパルタブクログ](http://qiita.com/nashirox/private/4e3e3de406d6a8f88a9c)
+- 最終課題：スパル食べログ
 
 ### DAY 8 ｰ 2015年6月29日
-- 未設置
+- [Railsアプリのデプロイ実習](http://qiita.com/nashirox/private/e243ef7a47c9c3616770)
