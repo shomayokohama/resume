@@ -33,7 +33,7 @@
 
 ### DAY 7 ｰ 2015年6月28日
 - [スパルタブクログ](http://qiita.com/nashirox/private/4e3e3de406d6a8f88a9c)
-- 最終課題：スパル食べログ
+- [最終課題：スパル食べログ](http://qiita.com/nashirox/private/418466db38c43af2142b)
 
 ### DAY 8 ｰ 2015年6月29日
 - [Railsアプリのデプロイ実習](http://qiita.com/nashirox/private/e243ef7a47c9c3616770)
