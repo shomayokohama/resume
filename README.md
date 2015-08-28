@@ -10,6 +10,7 @@
 - [Rails Scaffold（２）](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/scaffold_2nd.md)
 
 ### DAY 2 ｰ 2015年8月29日
+- [コントローラーの基礎](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/controller_test.md)
 - [Rubyの基礎（１）](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/Ruby_Basic_01.md)
 - [Rubyの基礎（２）](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/Ruby_Basic_02.md)
 
