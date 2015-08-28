@@ -1,7 +1,7 @@
-# コントローラー開発の基礎
+# コントローラー＆ビュー開発の基礎
 ## MVCとは
-- 　Railsは、MVCパターン（Model - View - Controllerパターン）と呼ばれるアーキテクチャを採用しています。
--  MVCパターンとは、アプリケーションを次の役割で明確に分離しようという設計モデルです。
+- Railsは、MVCパターン（Model - View - Controllerパターン）と呼ばれるアーキテクチャを採用しています。
+- MVCパターンとは、アプリケーションを次の役割で明確に分離しようという設計モデルです。
 	-  Model（ビジネスロジック）
 	-  View（ユーザインターフェイス）
 	-  Controller（ModelとViewの制御）
@@ -84,3 +84,16 @@ end
 
 コントローラーはこうやってユーザーのリクエスト（＝URL）を受け取って、処理を行う。
 
+## 演習
+- `http://localhost:3000/name/nashirodaisuke`にアクセスすると次のように表示されるようにしましょう
+
+```
+こんにちは！nashirodaisukeさん
+```
+
+- 表示されたら、`http://localhost:3000/name/nashiro/daisuke`にアクセスすると次のように表示するよう変更しましょう
+
+```
+あなたの姓はnashiro、
+名前はdaisukeさんですね
+```

@@ -5,13 +5,13 @@
 ### DAY 1 ｰ 2015年8月28日
 - [ターミナルの基礎](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/Terminal.md)
 - [環境構築](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89.md)
+- [Rubyの基礎（１）](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/Ruby_Basic_01.md)
+- [コントローラーの基礎](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/controller_test.md)
 - [Rails Scaffold（１）](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/scaffold.md)
-- [自作Scaffold](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/my_first_scaffold.md)
-- [Rails Scaffold（２）](https://github.com/sparta-hachiman/resume/blob/master/DAY_01/scaffold_2nd.md)
 
 ### DAY 2 ｰ 2015年8月29日
-- [コントローラーの基礎](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/controller_test.md)
-- [Rubyの基礎（１）](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/Ruby_Basic_01.md)
+- [自作Scaffold](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/my_first_scaffold.md)
+- [Rails Scaffold（２）](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/scaffold_2nd.md)
 - [Rubyの基礎（２）](https://github.com/sparta-hachiman/resume/blob/master/DAY_02/Ruby_Basic_02.md)
 
 ### DAY 3 ｰ 2015年9月5日
